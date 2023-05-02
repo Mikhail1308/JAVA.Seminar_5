@@ -7,11 +7,7 @@
 
 package org.example;
 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Set;
-import java.io.*;
-import java.util.*;
+
 import java.util.TreeMap;
 
 public class TASK_002 {
